@@ -3,7 +3,7 @@
 main()
 {
 int n,c,aux,m;
-int numero[200];
+int numero[1000];
 
 printf("este programa ordenara n numeros");
 printf("cuantos numeros seran?");
